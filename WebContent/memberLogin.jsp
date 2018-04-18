@@ -20,8 +20,6 @@
   <input type="submit" value="Log-in!" /></p>
  </form>
 
-     <p> Forgot your password? </p> 
-     <input type="submit" value="Click here!" /></p>
-     </form>
+     
 </body>
 </html>

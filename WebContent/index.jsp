@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link href="Style" type="text/css" rel="stylesheet">
-<title>Insert title here</title>
+<title>Store Index Page</title>
 </head>
 <body>
 
